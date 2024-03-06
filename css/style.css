@@ -3,17 +3,3 @@
     margin: 0;
     box-sizing: border-box;
 }
-img{
-    width: 100%;
-}
-
-
-
-
-/* style */
-.navbar{
-    height: 70px;
-}
-.navbar img{
-    width: 100px;
-}
