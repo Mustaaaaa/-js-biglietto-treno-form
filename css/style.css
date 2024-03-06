@@ -11,3 +11,9 @@ img{
 
 
 /* style */
+.navbar{
+    height: 70px;
+}
+.navbar img{
+    width: 100px;
+}
